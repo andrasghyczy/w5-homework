@@ -1,0 +1,14 @@
+div.card {
+    width: 45%;
+    
+    padding: 10px;
+    margin-bottom: 10px;
+    
+    border: 2px solid black;
+}
+
+p.description {
+    width: 90%;
+
+    font-size: 20px;
+}
